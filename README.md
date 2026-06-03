@@ -1,4 +1,9 @@
 ---
+## First Step:
+run 
+```bash 
+pre-commit install -f
+```
 
 ## 🛠️ Troubleshooting
 
