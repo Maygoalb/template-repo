@@ -3,6 +3,7 @@
 <!-- Describe what changes you made and why -->
 
 ## Type of change
+<!-- put an "x" in the brances with no space before and after -->
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Breaking change
@@ -15,6 +16,7 @@
 3. 
 
 ## Checklist
+<!-- put an "x" in the brances with no space before and after -->
 - [ ] My code follows the project style guidelines
 - [ ] I have tested my changes locally
 - [ ] I have added tests for my changes (if needed)
