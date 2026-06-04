@@ -1,6 +1,9 @@
 ---
 ## 💭 First Step:
-run 
+run these two commands
+```bash 
+pip install -r requirements.txt
+``` 
 ```bash 
 pre-commit install -f
 ```
